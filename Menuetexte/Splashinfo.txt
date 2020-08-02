@@ -1,0 +1,19 @@
+﻿
+
+
+
+
+
+                         Wetterdatenanalyse 1.0
+              
+             Programm zur Analyse von Wetterdaten für ein Jahr
+
+             Autor:   Thorsten Meyer   2020
+
+             Das Programm verwaltet und analysiert Wetterdaten z.B.
+             
+             Luftdruck, Temperatur und Luftfeuchtigkeit
+
+             Es liefert den Durchschnittswert der entsprechenden Werte
+
+             Das Programm startet in 6 sek.

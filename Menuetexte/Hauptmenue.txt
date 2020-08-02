@@ -1,0 +1,13 @@
+﻿
+
+
+
+                              Hauptmenü
+
+                   (1) Wetterdaten verwalten
+                   (2) Wetterdaten anzeigen
+                   (3) Wetterdaten auswerten
+                   (4) Wetterdaten importieren
+                   (5) Wetterdaten exportieren
+                   (C) Konfigurieren
+                   (X) Programm beenden

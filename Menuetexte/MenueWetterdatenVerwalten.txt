@@ -1,0 +1,10 @@
+﻿
+
+
+
+                         Wetterdaten verwalten
+
+                   (1) Wetterdaten hinzufügen
+                   (2) Wetterdaten bearbeiten
+                   (3) Wetterdaten löschen
+                   (4) zurück
